@@ -12,7 +12,8 @@
 ```sh
 npm install && npm run dev
 ```
-
+- 
+Please navigate to src/tutorial folder to see example codes on different topics in react 
 - http://localhost:5173/
 
 Rest of the content in the TUTORIAL.md
